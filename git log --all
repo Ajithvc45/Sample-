@@ -1,0 +1,48 @@
+[33mcommit ec275ef3086fc7e7d3ed8d8e2f15061b25073234[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 18:00:22 2021 +0530
+
+    hey file modified
+
+[33mcommit 340efbfe252b8ac082a0c430e0e58d807bed5809[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 17:53:41 2021 +0530
+
+    hey file modified
+
+[33mcommit dea7fc22477f7ab5ea8538ddffd77adb75b051c6[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 982795a 6a67b5c
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 17:46:57 2021 +0530
+
+    WIP on feature: 982795a hey file edited
+
+[33mcommit 6a67b5ca45bba6e243f0645dd169fc734359f285[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 17:46:57 2021 +0530
+
+    index on feature: 982795a hey file edited
+
+[33mcommit 982795a85554b80d44cb5279619a14cfe1eb1502[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 15:21:19 2021 +0530
+
+    hey file edited
+
+[33mcommit 7974528384136c24a7e3fcd88f14be4f7627a5d6[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 14:57:13 2021 +0530
+
+    Second file added
+
+[33mcommit da0c5402601de9a53f1b743dbf9469deff0490c7[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 13:36:12 2021 +0530
+
+    added some messages
+
+[33mcommit c9391eea8177753051e49aac2f097c9a22c81935[m
+Author: Ajith VC <ajithvc45@gmail.com>
+Date:   Mon Nov 1 13:19:54 2021 +0530
+
+    First commit
